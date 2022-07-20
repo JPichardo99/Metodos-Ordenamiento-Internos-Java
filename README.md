@@ -33,5 +33,5 @@
    <br/>
    ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/SelectionSort.java" target="_blank">Selection Sort</a>
    <br/>
-   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/ShellSort.java" target="_blank">Selection Sort</a>Shell Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/ShellSort.java" target="_blank">Shell Sort</a>
 </samp>
