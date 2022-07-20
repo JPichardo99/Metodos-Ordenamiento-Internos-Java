@@ -17,21 +17,21 @@
 <samp>
    Algunos metodos de ordenamiento internos son:
    <br/>
-   ☑️ Bubble Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/BubbleSort.java" target="_blank">Bubble Sort</a>
    <br/>
-   ☑️ Cocktail Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/CocktailSort.java" target="_blank">Cocktail Sort</a>
    <br/>
-   ☑️ Heap Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/HeapSort.java" target="_blank">Heap Sort</a>
    <br/>
-   ☑️ Insertion Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/InsertionSort.java" target="_blank">Insertion Sort</a>
    <br/>
-   ☑️ Merge Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/MergeSort.java" target="_blank">Merge Sort</a>
    <br/>
-   ☑️ Quick Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/QuickSort.java" target="_blank">Quick Sort</a>
    <br/>
-   ☑️ Radix Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/RadixSort.java" target="_blank">Radix Sort</a>
    <br/>
-   ☑️ Selection Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/SelectionSort.java" target="_blank">Selection Sort</a>
    <br/>
-   ☑️ Shell Sort
+   ☑️ <a href="https://github.com/JPichardo99/Metodos-Ordenamiento-Internos-Java/blob/main/ShellSort.java" target="_blank">Selection Sort</a>Shell Sort
 </samp>
